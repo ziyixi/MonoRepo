@@ -18,6 +18,9 @@ const (
 
 	IMPORTANT: Please do not write something like "OK, this is my summary". Just start with the summary.
 	IMPORTANT: Try to follow the format that is readable for mac email app (no markdown).
+	IMPORTANT: Don't use double quotes for the email subject. Just use plain text.
+	IMPORTANT: Please group emails into four categories: "Important", "Urgent", "Normal", "Low Priority". If you think the email is not important, please put it into "Low Priority" category.
+	IMPORTANT: Similar emails should be treated as one email.
 
 	All the emails previous summarized by gemini API are as follows:`
 )
